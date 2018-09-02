@@ -13,3 +13,5 @@ pin to depress (thru a hole on the end). The unit senses shock and is programmed
 discharge the fuel, and if the charging base isn't handy any high strength magnet can be used
 to trip the internal reed switches. By using hidden magnetic switches, the unit is more rugged,
 tamper-proof, and weather resistant. 
+
+Note that this will probably not be improved upon or built (by me at least) again, but as i used several resources from others across the net when designing and constructing the device, i wanted to share the results with everyone as well.
