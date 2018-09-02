@@ -1,7 +1,7 @@
 # Fuel-Rod-Prop
 An airsoft in game prop styled like a fuel rod.
 
-This prop has 6 different modes of poeration depending on what fits the game play best.
+This prop has 6 different modes of operation depending on what fits the game play best.
 
 It responds to shock and beeps or displays different colored lighting. 
 
